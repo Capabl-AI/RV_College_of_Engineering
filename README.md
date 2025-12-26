@@ -1,4 +1,4 @@
-# CEC
+# RVCE
 Project Submission Repository
 
 ## Video Link
